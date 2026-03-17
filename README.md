@@ -103,5 +103,5 @@ This project was developed as a **Third year project** to demonstrate backend de
 
 ## 👨‍💻 Author
 
-Your Name
+Kunal Raj Shah
 LinkedIn: https://www.linkedin.com/in/kunal-raj-shah-670183382/
