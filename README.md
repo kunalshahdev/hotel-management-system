@@ -1,29 +1,103 @@
-Hotel Reservation - Beginner Project
+# 🏨 Hotel Management System (HMS)
 
-Setup
-1. Using XAMPP, start Apache and MySQL.
-2. Import `create_tables.sql` into your MySQL (phpMyAdmin or mysql client).
-   - Database created: `hotel_reservation`.
-3. Place this project folder in XAMPP's htdocs (already in your workspace).
-4. Open http://localhost/Hotel_Reservation_System/ in your browser.
+A modern **Hotel Management System** designed to manage hotel operations such as room management, bookings, customer records, and front desk operations.
 
-Default admin
-- Email: admin@local
-- Password: admin123
-(Note: admin password stored plaintext for compatibility; logging in will migrate it to a secure hash.)
+This project was developed as a **full-stack PHP application** running on **XAMPP** with a clean custom UI built entirely from scratch without using any CSS frameworks.
 
-Features implemented
-- Customer registration/login (passwords hashed on register; existing plaintext migrated on login).
-- Admin dashboard: add/edit/delete rooms, manage customers.
-- Room search and listing.
-- Book room (customer): create booking and mark room as booked.
-- Booking history, cancel booking, payment recording.
+---
 
-Quick notes
-- If you see blank pages, enable PHP error display or check XAMPP error log at `/Applications/XAMPP/xamppfiles/logs/error_log`.
-- This is a beginner project; do not use in production without securing inputs and upgrading to prepared statements.
+## 🚀 Features
 
-If you want, I can:
-- Convert queries to prepared statements.
-- Add a reset-password flow.
-- Improve UI further with Bootstrap.
+* Admin Dashboard
+* Room Management
+* Booking Management
+* Customer Management
+* Room Availability Check
+* Booking Status Tracking
+* Modern Responsive UI
+* Clean modular PHP structure
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend
+
+* HTML5
+* CSS3 (Custom UI from scratch)
+* Vanilla JavaScript
+
+Backend
+
+* PHP
+
+Database
+
+* MySQL
+
+Server
+
+* XAMPP (Apache)
+
+---
+
+## 📂 Project Structure
+
+```
+hotel-management-system/
+assets/
+config/
+includes/
+modules/
+database/
+index.php
+```
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```
+git clone https://github.com/YOURUSERNAME/hotel-management-system.git
+```
+
+2. Move project to XAMPP htdocs
+
+```
+xampp/htdocs/
+```
+
+3. Import the database
+
+```
+database/hms.sql
+```
+
+4. Start Apache and MySQL in XAMPP
+
+5. Open in browser
+
+```
+http://localhost/hotel-management-system
+```
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots of your dashboard, rooms page, booking page)
+
+---
+
+## 🎯 Purpose
+
+This project was developed as a **final year project** to demonstrate backend development, database management, and custom UI design using PHP.
+
+---
+
+## 👨‍💻 Author
+
+Your Name
+LinkedIn: https://linkedin.com/in/YOURPROFILE
