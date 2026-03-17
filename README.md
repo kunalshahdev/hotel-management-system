@@ -86,18 +86,22 @@ http://localhost/hotel-management-system
 ---
 
 ## 📸 Screenshots
+<img width="2553" height="1002" alt="image" src="https://github.com/user-attachments/assets/786f7695-8e8b-45de-bc93-594eaba642f0" />
+<img width="2555" height="999" alt="image" src="https://github.com/user-attachments/assets/f8c8abc8-7df3-4ca5-850a-0a67ec95e7d7" />
+<img width="2554" height="963" alt="image" src="https://github.com/user-attachments/assets/1b3353e2-813f-4064-b71b-684541685a36" />
 
-(Add screenshots of your dashboard, rooms page, booking page)
+
+
 
 ---
 
 ## 🎯 Purpose
 
-This project was developed as a **final year project** to demonstrate backend development, database management, and custom UI design using PHP.
+This project was developed as a **Third year project** to demonstrate backend development, database management, and custom UI design using PHP.
 
 ---
 
 ## 👨‍💻 Author
 
 Your Name
-LinkedIn: https://linkedin.com/in/YOURPROFILE
+LinkedIn: https://www.linkedin.com/in/kunal-raj-shah-670183382/
